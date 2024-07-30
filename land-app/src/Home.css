@@ -1,0 +1,11 @@
+.dash{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.dash section{
+  height: 100%;
+  width: 100vw;
+  background-color: rgb(255, 255, 255);
+}
